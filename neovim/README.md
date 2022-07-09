@@ -3,5 +3,5 @@
 ## Config Path
 
 ```shell
-~/.config/nvim/init.vim
+vim ~/.config/nvim/init.vim
 ```
